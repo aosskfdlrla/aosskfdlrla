@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg
 <!--
 **aosskfdlrla/aosskfdlrla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
