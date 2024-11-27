@@ -1,5 +1,4 @@
 <div align=center> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EAFF00&height=150&section=header&text=Hitsuni%20GitHub&fontSize=42" />
   <h2>안녕하세요 개발자 황희순입니다!</h2>
 
   <h3>✨ 제가 주로 사용했던 기술이에요 ✨</h3>
