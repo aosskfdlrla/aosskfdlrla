@@ -1,5 +1,3 @@
-<div aligin="center">
- 
 <div align=center> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EAFF00&height=150&section=header&text=Hitsuni%20GitHub&fontSize=42" />
   <h2>안녕하세요 개발자 황희순입니다!</h2>
@@ -40,8 +38,13 @@
 
   <h3>🛠️ Tool's</h3>
   <img src="https://img.shields.io/badge/intellij idea-181717?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <br>
+  <h3>✨깃 요약이에요✨</h3>
+  <br>
   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aosskfdlrla&show_icons=true&theme=radical)
 </div>
+
 <!--
 **aosskfdlrla/aosskfdlrla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
